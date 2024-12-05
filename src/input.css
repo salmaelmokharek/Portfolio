@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    section ,.section {
+        /* @apply bg-custom-radial-gradient; */
+        @apply bg-center h-screen;
+    }
+}
+
