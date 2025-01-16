@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-    section ,.section {
+    section,.section {
         /* @apply bg-custom-radial-gradient; */
         @apply bg-center h-screen;
     }
